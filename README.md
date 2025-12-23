@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcos Ferreira
 
-💻 **Desenvolvedor Full-Stack**  
+💻 **Desenvolvedor Full-Stack Junior**  
 🌐 **Frontend & Backend | Sites, Sistemas e APIs**  
 🚀 **PHP | Node.js | React | JavaScript | HTML | CSS | Rust | Python | Java**  
 🎮 **Plugins Minecraft | Bots Discord**
