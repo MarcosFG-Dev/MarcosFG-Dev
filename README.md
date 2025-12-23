@@ -12,7 +12,7 @@ Desenvolvedor focado na criação de **sites e sistemas completos**, atuando tan
 ## 🧠 O que eu faço
 - 🌐 Sites em **HTML, CSS e JavaScript**
 - ⚛️ Aplicações **React**
-- 🐘 Backend em **PHP**
+- 🐘 Backend e Frontend em **PHP**
 - 🟢 Backend em **Node.js**
 - 🦀 Conhecimento em **Rust**
 - 🔌 Criação de **APIs REST**
