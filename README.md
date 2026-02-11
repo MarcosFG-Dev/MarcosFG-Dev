@@ -46,16 +46,13 @@ Desenvolvedor focado na criação de **sites e sistemas completos**, atuando tan
 ---
 
 ## 📌 Projetos em Destaque
-- 🎫 **ticket-botpy** — Bot de tickets completo em Python  
-- 🔌 **SimplePlugin** — Plugin simples para Minecraft  
-- 🧙 **RPGPlugin** — Plugin de RPG para Minecraft 1.8.9  
+- 🎫 **Site de Vendas De Ingressos** — https://tixxey.com 
 - 📊 **Gerador de Planilhas para Word** — Automação em JavaScript  
-- 🔗 **DiscordLink** — Plugin para vincular contas no Minecraft  
-
+- 🔗 **AuthAPI** — Sistema de Segurança para sua aplicação 
 ---
 
 ## 🌎 Onde me encontrar
-- 🌐 Site: https://jmgcodes.com.br
+- 🌐 Discord: kaka_dev
 - 💻 GitHub: [@MarcosFG-Dev](https://github.com/MarcosFG-Dev)
 
 ---
