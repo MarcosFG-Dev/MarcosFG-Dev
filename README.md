@@ -72,6 +72,11 @@ Plataforma voltada para venda e gerenciamento de ingressos online.
 
 🔗 https://tixxey.com
 
+### Essenza di Marmo — Site institucional
+Site profissional desenvolvido para apresentação da marca, catálogo/portfólio e presença digital da empresa.
+
+🔗 https://essenzadimarmo.com.br
+
 ### AuthAPI — Segurança para aplicações
 Sistema de autenticação e proteção para aplicações, com foco em controle de acesso e segurança.
 
