@@ -9,7 +9,7 @@
 Atuo diretamente na implementação de aplicações web, APIs, sistemas de autenticação, automações, aplicativos e plugins Java — da modelagem inicial ao código, testes, documentação e entrega.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MarcosFG--Dev-181717?style=for-the-badge&logo=github)](https://github.com/MarcosFG-Dev)
-[![Tixxey](https://img.shields.io/badge/Produto-tixxey.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tixxey.com)
+[![Tixxey](https://img.shields.io/badge/Produto-Essenza-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://essenzadimarmo.com.br)
 [![Email](https://img.shields.io/badge/Email-marcosfg74%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosfg74@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-kaka__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
@@ -152,7 +152,7 @@ Também desenvolvi um MVP Android para disponibilizar a experiência web dentro 
 
 **Stack:** Web, Android, Kotlin, WebView e integração com produto existente.
 
-[Visitar Tixxey](https://tixxey.com) • [Ver Tixxey App](https://github.com/MarcosFG-Dev/Tixxey-app)
+[Visitar Tixxey](https://tixxey.com)
 
 ---
 
