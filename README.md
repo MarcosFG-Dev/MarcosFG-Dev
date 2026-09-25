@@ -1,106 +1,173 @@
 <div align="center">
 
-# Marcos Ferreira
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Marcos%20Ferreira&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Backend%20Developer%20%E2%80%A2%20IA%20Aplicada&descAlignY=58&descSize=18" />
 
-### Software Engineer • Full-Stack & Backend Developer • IA Aplicada
+<a href="https://github.com/MarcosFG-Dev">
+  <img src="https://img.shields.io/badge/GitHub-MarcosFG--Dev-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:marcosfg74@gmail.com">
+  <img src="https://img.shields.io/badge/Email-marcosfg74%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=MarcosFG-Dev&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
-**Escrevo código, projeto arquiteturas e transformo requisitos em software funcionando.**
+<br/><br/>
 
-Atuo diretamente na implementação de aplicações web, APIs, sistemas de autenticação, automações, aplicativos e plugins Java — da modelagem inicial ao código, testes, documentação e entrega.
-
-[![GitHub](https://img.shields.io/badge/GitHub-MarcosFG--Dev-181717?style=for-the-badge&logo=github)](https://github.com/MarcosFG-Dev)
-[![Email](https://img.shields.io/badge/Email-marcosfg74%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosfg74@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=Backend+Engineering+%7C+APIs+%7C+Architecture;Java+%7C+Paper+%7C+Spigot+%7C+Runtime+Systems;Node.js+%7C+React+%7C+PostgreSQL+%7C+Docker;Security+%7C+Automation+%7C+Applied+AI;Transformando+requisitos+em+software+funcionando." />
 
 </div>
 
 ---
 
-## Sobre mim
+## `> whoami`
 
-Sou desenvolvedor full-stack com foco em **backend, arquitetura de sistemas, segurança e construção de produtos digitais**.
+```yaml
+name: Marcos Ferreira
+role: Software Engineer
+focus:
+  - Backend Engineering
+  - Full-Stack Development
+  - System Architecture
+  - Security
+  - Java & Minecraft Ecosystems
+  - Applied AI
+philosophy: "Código, arquitetura e produto — IA como ferramenta, não como atalho."
+```
+
+Sou desenvolvedor **full-stack** com foco em **backend, arquitetura de sistemas, segurança e construção de produtos digitais**.
 
 Meu trabalho acontece no código: implemento regras de negócio, APIs, persistência, autenticação, integrações, interfaces, comandos, eventos, sistemas de configuração, testes e ferramentas de diagnóstico.
 
-Tenho experiência prática construindo soluções com **Java, JavaScript, Node.js, React, Python, PHP, bancos relacionais, Docker e GitHub Actions**, além de ecossistemas para servidores Minecraft com Paper, Spigot e Bukkit.
+Tenho experiência prática construindo soluções com **Java, JavaScript, Node.js, React, Python, PHP, PostgreSQL, MySQL, MongoDB, Docker e GitHub Actions**, além de ecossistemas para servidores Minecraft com **Paper, Spigot e Bukkit**.
+
+<div align="center">
 
 ```text
-Requisito → Arquitetura → Código → Testes → Documentação → Entrega
+REQUISITO  →  ARQUITETURA  →  CÓDIGO  →  TESTES  →  DOCUMENTAÇÃO  →  ENTREGA
 ```
 
-Inteligência artificial faz parte do meu processo como uma ferramenta de produtividade e análise. Ela acelera pesquisa, prototipação e revisão, mas as decisões técnicas, a implementação, a validação e a responsabilidade pelo resultado continuam sendo parte do meu trabalho como desenvolvedor.
+</div>
 
 ---
 
-## O que eu implemento diretamente
+## `> capabilities`
 
-### Backend e APIs
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- endpoints REST e contratos de resposta;
-- autenticação com JWT, access token e refresh token;
-- regras de negócio e controle de acesso;
-- validação de dados e tratamento de erros;
-- integração com PostgreSQL, MySQL, MongoDB e SQLite;
-- logs estruturados, health checks e observabilidade;
-- documentação OpenAPI/Swagger;
-- testes de integração e pipelines de CI.
+### ⚙️ Backend & APIs
 
-### Frontend e produto
+- REST APIs e contratos de resposta
+- JWT, access token e refresh token
+- Regras de negócio e controle de acesso
+- PostgreSQL, MySQL, MongoDB e SQLite
+- Logs estruturados e health checks
+- OpenAPI / Swagger
+- Testes de integração
+- CI/CD e automação
 
-- interfaces responsivas com HTML, CSS, JavaScript e React;
-- integração de frontend com APIs;
-- estados de carregamento, erro e autenticação;
-- dashboards, páginas comerciais e fluxos de usuário;
-- experiência mobile e integração com aplicativos Android.
+</td>
+<td width="50%" valign="top">
 
-### Java e sistemas para servidores
+### ✦ Frontend & Produto
 
-- plugins Paper/Spigot/Bukkit;
-- comandos, permissões, listeners e schedulers;
-- persistência em YAML e MySQL;
-- integração com Vault e APIs externas;
-- GUIs, sistemas econômicos e mecânicas de jogo;
-- runtimes, classloaders, hot-reload e gerenciamento de lifecycle;
-- ferramentas de diagnóstico e distribuição de plugins.
+- Interfaces responsivas
+- React, HTML, CSS e JavaScript
+- Integração frontend ↔ APIs
+- Dashboards e fluxos autenticados
+- UX mobile
+- Android / Kotlin / WebView
+- Loading, erros e estados
+- Produtos digitais completos
 
-### Qualidade e manutenção
+</td>
+</tr>
 
-- leitura, depuração e refatoração de código;
-- separação de responsabilidades e arquitetura em camadas;
-- segurança desde o desenho da solução;
-- testes automatizados;
-- documentação técnica;
-- Docker, Git, branches, pull requests e GitHub Actions.
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Java & Minecraft
+
+- Paper / Spigot / Bukkit
+- Comandos, permissões e listeners
+- Schedulers e lifecycle
+- YAML e MySQL
+- Vault e APIs externas
+- GUIs e sistemas econômicos
+- ClassLoaders e hot reload
+- Ferramentas de diagnóstico
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Engenharia
+
+- Debug e refatoração
+- Arquitetura em camadas
+- Segurança by design
+- Testes automatizados
+- Docker e Git
+- Pull requests e branches
+- GitHub Actions
+- Documentação técnica
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Projetos que demonstram meu código
+<div align="center">
 
-### VeonJS
+## `> featured_projects`
 
-Runtime para servidores Paper/Spigot desenvolvido para carregar, testar e distribuir mini-plugins em Java e JavaScript.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="85%" />
 
-O projeto envolve problemas técnicos que vão além de um plugin convencional:
+</div>
+
+### ⚡ VeonJS
+
+> Runtime para servidores **Paper/Spigot**, desenvolvido para carregar, testar e distribuir mini-plugins em **Java e JavaScript**.
+
+```text
+Dynamic Compilation
+      ↓
+Dependency Resolution
+      ↓
+ClassLoader Isolation
+      ↓
+Hot Reload / Lifecycle
+      ↓
+Diagnostics / Leak Detection
+```
+
+**Engenharia envolvida**
 
 - compilação e carregamento dinâmico de código;
-- hot-reload com gerenciamento de lifecycle;
+- hot reload com gerenciamento de lifecycle;
 - classloaders e limpeza de referências;
-- suporte a JavaScript com GraalJS;
+- JavaScript com GraalJS;
 - resolução de dependências Maven;
 - scanner estático de risco;
 - diagnóstico de erros e possíveis memory leaks;
-- empacotamento `.mplugin` com recursos de proteção e licenciamento.
+- empacotamento `.mplugin` com proteção e licenciamento.
 
-**Stack:** Java, Paper/Spigot API, GraalJS, Maven e sistemas de classloading.
+**Stack**
 
-[Explorar código do VeonJS](https://github.com/MarcosFG-Dev/VeonJS)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk)
+![Paper](https://img.shields.io/badge/Paper-111827?style=flat-square)
+![GraalJS](https://img.shields.io/badge/GraalJS-111827?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-111827?style=flat-square&logo=apachemaven)
+
+[**→ Explorar VeonJS**](https://github.com/MarcosFG-Dev/VeonJS)
 
 ---
 
-### AuthAPI
+### 🔐 AuthAPI
 
-API B2B de autenticação construída com arquitetura em camadas, segurança e preparação para operação em produção.
+> API B2B de autenticação construída com arquitetura em camadas, segurança e preparação para produção.
 
-Implementações presentes no projeto:
+**Implementações**
 
 - cadastro, login, sessão e consulta de usuário;
 - access tokens de curta duração;
@@ -108,144 +175,170 @@ Implementações presentes no projeto:
 - mitigação de reutilização de refresh token;
 - revogação de sessões e `logout-all`;
 - hash de tokens persistidos;
-- proteção contra brute force e rate limiting;
+- brute-force protection e rate limiting;
 - validação com Zod;
 - logs estruturados com request ID;
 - Prisma, PostgreSQL, Docker, Swagger, Jest e Supertest.
 
-**Stack:** Node.js, Express, Prisma, PostgreSQL, Zod, Pino, Jest e Docker.
+**Stack**
 
-[Explorar código da AuthAPI](https://github.com/MarcosFG-Dev/AuthAPI)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
+
+[**→ Explorar AuthAPI**](https://github.com/MarcosFG-Dev/AuthAPI)
 
 ---
 
-### mEconomy
+### 💰 mEconomy
 
-Plugin de economia para Minecraft com interface gráfica, persistência e integração com outros plugins do ecossistema.
+> Plugin de economia para Minecraft com interface gráfica, persistência e integração com outros plugins.
 
-Implementações principais:
-
-- sistema de saldo e transações entre jogadores;
+- sistema de saldo e transações;
 - comandos administrativos;
 - integração com Vault;
-- armazenamento em YAML ou MySQL;
-- ranking dos jogadores mais ricos;
+- YAML ou MySQL;
+- ranking de jogadores;
 - GUI interativa;
-- mensagens e comportamento configuráveis;
+- mensagens configuráveis;
 - compatibilidade com servidores legados.
 
-**Stack:** Java, Bukkit/Spigot API, Vault, Maven, YAML e MySQL.
+**Stack**
 
-[Explorar código do mEconomy](https://github.com/MarcosFG-Dev/mEconomy)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk)
+![Vault](https://img.shields.io/badge/Vault-111827?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql)
+![Maven](https://img.shields.io/badge/Maven-111827?style=flat-square&logo=apachemaven)
+
+[**→ Explorar mEconomy**](https://github.com/MarcosFG-Dev/mEconomy)
 
 ---
 
-### Tixxey
+### 🎟️ Tixxey
 
-Produto digital para descoberta, divulgação e gerenciamento de experiências e eventos.
+> Produto digital para descoberta, divulgação e gerenciamento de experiências e eventos.
 
 Minha atuação inclui desenvolvimento, evolução do produto, experiência de navegação, presença web, integração mobile e estratégia de catálogo.
 
-Também desenvolvi um MVP Android para disponibilizar a experiência web dentro de um aplicativo com persistência de sessão, carregamento, tratamento de ausência de internet e abertura segura de links externos.
+Também desenvolvi um MVP Android com persistência de sessão, carregamento, tratamento de ausência de internet e abertura segura de links externos.
 
-**Stack:** Web, Android, Kotlin, WebView e integração com produto existente.
+**Stack**
 
-[Visitar Tixxey](https://tixxey.com)
+![Web](https://img.shields.io/badge/Web-111827?style=flat-square&logo=googlechrome)
+![Android](https://img.shields.io/badge/Android-111827?style=flat-square&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin)
+
+[**→ Visitar Tixxey**](https://tixxey.com)
 
 ---
 
-## Outros projetos
+## `> more_projects`
 
-| Projeto | O que foi construído | Tecnologias |
+| Projeto | Implementação | Stack |
 |---|---|---|
-| [TitaniumMVP](https://github.com/MarcosFG-Dev/TitaniumMVP) | Backend, autenticação, dashboards e persistência | Node.js, Express, JWT, SQLite |
-| [mTickets](https://github.com/MarcosFG-Dev/mTickets) | Sistema de tickets para servidores | Java, comandos, eventos e persistência |
-| [mDiscord](https://github.com/MarcosFG-Dev/mDiscord) | Integração entre Discord e Minecraft | Java, Discord e Paper/Spigot |
-| [RPGPlugin](https://github.com/MarcosFG-Dev/RPGPlugin) | Mecânicas, eventos e sistemas de progressão | Java e Bukkit API |
-| [Gerador de Planilhas para Word](https://github.com/MarcosFG-Dev/Gerador-de-Planilhas-para-Word) | Automação de documentos e processos repetitivos | JavaScript |
-| [EssentialsRX](https://github.com/MarcosFG-Dev/EssentialsRX) | Comandos e funcionalidades essenciais para servidores | Java e Spigot |
+| [**TitaniumMVP**](https://github.com/MarcosFG-Dev/TitaniumMVP) | Backend, autenticação, dashboards e persistência | Node.js, Express, JWT, SQLite |
+| [**mTickets**](https://github.com/MarcosFG-Dev/mTickets) | Sistema de tickets para servidores | Java, comandos, eventos |
+| [**mDiscord**](https://github.com/MarcosFG-Dev/mDiscord) | Integração Discord ↔ Minecraft | Java, Discord, Paper |
+| [**RPGPlugin**](https://github.com/MarcosFG-Dev/RPGPlugin) | Mecânicas, eventos e progressão | Java, Bukkit |
+| [**Gerador de Planilhas para Word**](https://github.com/MarcosFG-Dev/Gerador-de-Planilhas-para-Word) | Automação de documentos | JavaScript |
+| [**EssentialsRX**](https://github.com/MarcosFG-Dev/EssentialsRX) | Funcionalidades essenciais | Java, Spigot |
 
 ---
-
-## Tecnologias com as quais escrevo código
-
-### Linguagens
-
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php)
-![Kotlin](https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin)
-
-### Web e backend
-
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Dados, infraestrutura e engenharia
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=for-the-badge&logo=githubactions)
-
----
-
-## IA aplicada ao desenvolvimento
-
-Não apresento IA como substituta da programação. Uso IA sobre uma base de desenvolvimento real para produzir software melhor e mais rápido.
-
-Aplicações no meu fluxo:
-
-- investigação de bugs e análise de hipóteses;
-- revisão e comparação de abordagens técnicas;
-- criação de testes iniciais e casos extremos;
-- documentação de sistemas e APIs;
-- prototipação de interfaces;
-- automação de tarefas repetitivas;
-- análise de segurança e possíveis falhas;
-- exploração de integrações com LLMs e agentes.
-
-Meu processo continua incluindo leitura do código, ajustes manuais, execução, testes, depuração e refatoração. Uma resposta gerada só se torna parte do projeto depois de ser compreendida e validada tecnicamente.
-
----
-
-## Como penso engenharia
-
-- Código deve ser compreensível, testável e fácil de modificar.
-- Arquitetura deve reduzir acoplamento e proteger as regras de negócio.
-- Segurança deve existir desde a primeira decisão técnica.
-- Um sistema não está pronto apenas porque funciona no cenário ideal.
-- Documentação faz parte da entrega.
-- IA aumenta produtividade, mas não substitui conhecimento técnico.
-- A complexidade precisa ser justificada pelo problema resolvido.
-
----
-
-## Atividade no GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcosFG-Dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFG-Dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
+## `> technology_stack`
+
+### Linguagens
+
+![Java](https://skillicons.dev/icons?i=java,js,python,php,kotlin&theme=dark)
+
+### Web & Backend
+
+![Web](https://skillicons.dev/icons?i=nodejs,express,react,html,css&theme=dark)
+
+### Dados & Infraestrutura
+
+![Infra](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,githubactions&theme=dark)
 
 </div>
 
 ---
 
-## Contato
+## `> applied_ai`
 
-Estou aberto a projetos e oportunidades envolvendo desenvolvimento full-stack, backend, APIs, automações, plugins Java, produtos digitais e soluções com inteligência artificial.
+Não apresento IA como substituta da programação.
+
+Uso IA sobre uma base real de engenharia para **aumentar velocidade de análise, prototipação e revisão**, mantendo decisões técnicas, implementação, validação e responsabilidade no processo de desenvolvimento.
+
+```mermaid
+flowchart LR
+    A[Problema] --> B[Investigar]
+    B --> C[Comparar]
+    C --> D[Prototipar]
+    D --> E[Implementar]
+    E --> F[Testar]
+    F --> G[Revisar]
+    G --> H[Entregar]
+```
+
+**Aplicações no meu fluxo**
+
+- investigação de bugs e hipóteses;
+- revisão de abordagens técnicas;
+- criação inicial de testes e casos extremos;
+- documentação de sistemas e APIs;
+- prototipação;
+- automação de tarefas repetitivas;
+- análise de segurança;
+- integrações com LLMs e agentes.
+
+> Uma resposta gerada só entra no projeto depois de ser **compreendida, validada e testada tecnicamente**.
+
+---
+
+## `> engineering_principles`
+
+```text
+01  READABLE      → Código deve ser compreensível.
+02  TESTABLE      → Confiança vem de validação.
+03  SECURE        → Segurança começa na arquitetura.
+04  MAINTAINABLE  → Software precisa sobreviver à mudança.
+05  DOCUMENTED    → Documentação faz parte da entrega.
+06  PRAGMATIC     → Complexidade precisa justificar seu custo.
+```
+
+---
 
 <div align="center">
 
-**Código, arquitetura e produto — com IA utilizada como ferramenta, não como atalho.**
+## `> github_analytics`
 
-[GitHub](https://github.com/MarcosFG-Dev) • [Email](mailto:marcosfg74@gmail.com) • Discord: `kaka_dev`
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MarcosFG-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFG-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosFG-Dev&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MarcosFG-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn&text=From%20requirement%20to%20production.&fontSize=24&fontColor=ffffff&fontAlignY=70" />
+
+### Construindo software que realmente funciona.
+
+[**GitHub**](https://github.com/MarcosFG-Dev) • [**Email**](mailto:marcosfg74@gmail.com) • Discord: `kaka_dev`
+
+<sub>Software Engineering • Backend • Java • Architecture • Security • Applied AI</sub>
 
 </div>
